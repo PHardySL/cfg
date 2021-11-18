@@ -1,0 +1,3 @@
+This is my personal dotfiles repo
+
+btw use config as the git alias...
